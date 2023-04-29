@@ -1,2 +1,2 @@
 # microProject1
-a static web page using html &amp; CSS
+a static web page using html & CSS.
